@@ -34,10 +34,11 @@
 # 개발 예제  
 
 - 비콘을 인식하여 인증하는 앱 (iBeacon, Altbeacon 인식)  
+  - 서버로 데이터 송신하는 것은 없으면 클라이언트 앱에서 3번째 ID (iBeacon에서는 Minor ID)가 0이면 인증된 사용자 아니면 비인증 사용자로 인식하도록 제작
 
 - 실행화면  
 
-<p align="center"><img src="1.jpg"><p>  
+<p align="center"><img src="1.jpg" widht="250px", height="500"><p>  
 
 - 구성도  
 
